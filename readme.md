@@ -14,5 +14,5 @@ git clone https://github.com/jcaromiq/java-kata-archetype.git kata-name
 
 ​	where kata-name is the name of kata
 
-Change the <groupId> and <artifactId>  of pom.xml 
+Change the groupId and artifactId  of pom.xml 
 
